@@ -1,4 +1,5 @@
-#For PDF text extraction:
+# For PDF text extraction
+
 import PyPDF2
 
 # For webdriver
