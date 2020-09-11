@@ -1,1 +1,2 @@
-# Web-Scraping
+For PDF text extraction:
+pyPDF
